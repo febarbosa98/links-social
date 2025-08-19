@@ -70,6 +70,9 @@ h3{
     .content{
         width: 200px;
     }
+    .desenvolvedor{
+        max-width: 160px;
+    }
     a{
         width: auto;
     }
